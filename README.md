@@ -13,3 +13,6 @@ setwd('Interactive_Intelligent_Recommendation_System')
 load.project()
 
 ```
+***
+Documentation
+------------
