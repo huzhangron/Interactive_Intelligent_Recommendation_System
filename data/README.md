@@ -7,9 +7,10 @@ To simplify the dataset used in this project is a subset of the original dataset
 6 years. Users were selected at random for inclusion. Each user is represented by an id,
 and no other information about the users is provided.
 You will find in moodle three datasets:
-. train.csv:
-. test.csv
-. movies.csv
+
+* train.csv:
+* test.csv
+* movies.csv
 
 The datasets train.csv and test.csv contain the rates given by the users. Each line
 of both files after the header row represents one rating of one movie by one user,
