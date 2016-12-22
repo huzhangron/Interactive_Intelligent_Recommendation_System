@@ -16,10 +16,7 @@ of both files after the header row represents one rating of one movie by one use
 and has the following format:
  userId, movieId, rating, timestamp
 Ratings are made on a 5-star scale, with half-star increments (0.5 stars - 5.0
- 1 The original dataset contains more than 20 million ratings created by about 130000
-users.
-3
-stars).
+
 The file movies.csv contains the movie information. Each line of this file after the
 header row represents one movie, and has the following format:
  movieId, title, genres
