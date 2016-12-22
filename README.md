@@ -1,3 +1,6 @@
+Installation
+------------
+
 ``` r
 
 library('ProjectTemplate')
