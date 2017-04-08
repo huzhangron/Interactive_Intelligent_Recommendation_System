@@ -14,6 +14,8 @@ load.project()
 
 ```
 ***
+<p align="center"><img src="https://buildingrecommenders.files.wordpress.com/2015/11/recommender-comparison1.png"  /></p>
+
 Documentation
 ------------
 * community detection or graph clustering approach.
