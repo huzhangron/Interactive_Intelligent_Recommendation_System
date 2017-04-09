@@ -21,3 +21,4 @@ Documentation
 * community detection or graph clustering approach.
 * The detected communities or clusters.
 * content-based and collaborative filtering recommendation system.
+* Hybrid
